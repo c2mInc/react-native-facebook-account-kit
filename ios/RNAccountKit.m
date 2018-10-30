@@ -15,6 +15,7 @@
 
 RCT_EXPORT_MODULE();
 
+// yeni
 
 RCT_EXPORT_METHOD(login:(NSString *)type
                   resolver: (RCTPromiseResolveBlock)resolve
